@@ -4,7 +4,6 @@ A simple configuration for IPsec VPN in network-simulating program Cisco Packet 
 ## THIS IS A BRANCH IN DEVELOPMENT!
 This branch and all included files are still in development, therefore may break or not work as intended.<br>
 Currently here are the things that are being developed:<br>
-- Integration of IPsec VPN between the two offices.
 - Integration of a Firewall in the network.
 
 ## How to use
